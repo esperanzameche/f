@@ -1,0 +1,17 @@
+.html{
+    width:800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    width:60%;
+}
+.main{
+    width:40%;
+}
+.sect, .contai-side, .contain-sect-unouno, .contain-sect-dos {
+    width:100%;
+}
+.footer{
+    width:34%;
+}
